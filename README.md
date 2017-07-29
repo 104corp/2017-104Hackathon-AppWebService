@@ -2,7 +2,8 @@
 
 104首次開放海量職缺工作細節內容，及珍貴求職者行為資料，請參賽者發揮創意，打造職場媒合相關創新服務。
 ## 活動網址
-https://www.104.com.tw/2017hackathon/
+    + https://www.104.com.tw/2017hackathon/
+    + Leader Board：https://hackathon2017.events.104.com.tw
 ## 主題說明
 最佳人性化的設計，來自於傾聽user insight，利用主辦單位特定時間區間內去識別化的行為記錄（user Log），達到觀測真實行為目的。參賽者歡迎使用主辦單位所提供之資料集，設計製作徵才或求職相關的 App、Web Service。
 ## 範例 - 我要活下去之何處是我家
